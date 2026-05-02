@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ShutApp</string>
+    <string name="no_wifi_text">Please enable a Wi-Fi connection.</string>
+    <string name="no_wifi_btn">Open settings</string>
+    <string name="device_add">Add a device</string>
+    <string name="device_add_first">Add your first device</string>
+    <string name="device_already_added">You have already added this device !</string>
+    <string name="ip_add">Add</string>
+    <string name="ip_label">IP address</string>
+    <string name="ip_placeholder">192.168.x.x</string>
+    <string name="ip_not_reached">Unable to reach %s !</string>
+    <string name="scan">Scan</string>
+    <string name="scan_again">Scan again</string>
+    <string name="scan_text">Search devices on your local network.</string>
+    <string name="scan_running">Scanning your local network… %d%%</string>
+    <string name="dialog_text">Do you want to remove %s ?</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="wrong_click">Please long press to send the command.</string>
+    <string name="back">Back to devices list</string>
+</resources>

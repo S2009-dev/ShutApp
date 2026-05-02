@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShutApp</string>
+    <string name="no_wifi_text">Veuillez activer une connexion Wi-Fi.</string>
+    <string name="no_wifi_btn">Ouvrir les paramètres</string>
+    <string name="device_add">Ajouter un appareil</string>
+    <string name="device_add_first">Ajoutez votre premier appareil</string>
+    <string name="device_already_added">Vous avez déjà ajouté cet appareil !</string>
+    <string name="ip_add">Ajouter</string>
+    <string name="ip_label">Adresse IP</string>
+    <string name="ip_placeholder">192.168.x.x</string>
+    <string name="ip_not_reached">Impossible de joindre %s !</string>
+    <string name="scan">Scanner</string>
+    <string name="scan_again">Scanner à nouveau</string>
+    <string name="scan_text">Rechercher des appareils sur votre réseau local.</string>
+    <string name="scan_running">Scan de votre réseau local… %d%%</string>
+    <string name="dialog_text">Voulez-vous supprimer %s ?</string>
+    <string name="dialog_confirm">Confirmer</string>
+    <string name="dialog_cancel">Annuler</string>
+    <string name="wrong_click">Veuillez appuyer longuement pour envoyer la commande.</string>
+    <string name="back">Retour à la liste des appareils.</string>
+</resources>
