@@ -1,0 +1,8 @@
+Don't forget to download the desktop app too.
+Compatible with Windows and Linux.
+
+- Add multiple devices
+- Turn them off
+- Restart them
+- Put them to sleep
+- Lock them

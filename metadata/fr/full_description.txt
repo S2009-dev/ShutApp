@@ -1,0 +1,8 @@
+N'oubliez pas d'installer l'application sur votre ordinateur également.
+Compatible avec Windows et Linux.
+
+- Ajoutez plusieurs appareils
+- Éteignez les
+- Redémarrez les
+- Mettez les en veille
+- Verrouillez les
