@@ -45,13 +45,6 @@ android {
     }
 }
 
-java {
-    toolchain {
-        languageVersion.set(JavaLanguageVersion.of(21))
-        vendor.set(JvmVendorSpec.ADOPTIUM)
-    }
-}
-
 dependencies {
     implementation(libs.kotlinx.serialization.json)
     implementation(libs.okhttp)
