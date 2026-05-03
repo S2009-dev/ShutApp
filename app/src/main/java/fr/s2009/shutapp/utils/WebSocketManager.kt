@@ -69,7 +69,7 @@ fun getDeviceInfo(ip: String, onResult: (Device) -> Unit, onError: (Throwable) -
                 val device = Device(
                     name = jsonMap["hostname"] ?: "",
                     ip = ip,
-                    os = jsonMap["system"] ?: ""
+                    os = jsonMap["os"] ?: ""
                 )
 
                 onResult(device)

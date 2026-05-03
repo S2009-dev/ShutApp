@@ -308,7 +308,7 @@ fun DeviceFoundItem(device: Device, modifier: Modifier?) {
         ) {
             Icon(
                 modifier = Modifier.size(64.dp),
-                painter = painterResource(R.drawable.windows),
+                painter = if (device.os == "windows") painterResource(R.drawable.windows) else painterResource(R.drawable.linux),
                 contentDescription = "DeviceIcon",
                 tint = colorResource(R.color.primary)
             )
@@ -454,7 +454,7 @@ fun DeviceItem(device: Device) {
         ) {
             Icon(
                 modifier = Modifier.size(64.dp),
-                painter = if (device.os == "Windows") painterResource(R.drawable.windows) else painterResource(R.drawable.linux),
+                painter = if (device.os == "windows") painterResource(R.drawable.windows) else painterResource(R.drawable.linux),
                 contentDescription = "DeviceIcon",
                 tint = colorResource(R.color.primary)
             )

@@ -79,7 +79,7 @@ class DeviceActivity : ComponentActivity() {
 
                 Icon(
                     modifier = Modifier.size(128.dp),
-                    painter = if (device?.os == "Windows") painterResource(R.drawable.windows) else painterResource(R.drawable.linux),
+                    painter = if (device?.os == "windows") painterResource(R.drawable.windows) else painterResource(R.drawable.linux),
                     contentDescription = "DeviceIcon",
                     tint = if(isDeviceOnline) colorResource(R.color.green) else colorResource(R.color.accent)
                 )
