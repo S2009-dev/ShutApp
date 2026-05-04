@@ -1,11 +1,13 @@
 # 📱 ShutApp
 
+[<img src="https://f-droid.org/badge/get-it-on-en.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/fr.s2009.shutapp)
+
 This Android app allows you to manage multiple computers on your local network remotely.  
 💻 Don't forget to download the [desktop app](https://github.com/S2009-dev/ShutApp-Desktop) too !
 
 ## ⚙️ Installation
 
-You can download the APK from the [releases page](https://github.com/ShutApp/ShutApp-Android/releases) or build it yourself using [Android Studio](https://developer.android.com/studio).
+You can download the APK from the [releases page](https://github.com/S2009-dev/ShutApp-Android/releases) or build it yourself using [Android Studio](https://developer.android.com/studio).
 
 ## ✨ Features
 
