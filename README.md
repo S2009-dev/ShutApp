@@ -1,7 +1,7 @@
 # 📱 ShutApp
 
 This Android app allows you to manage multiple computers on your local network remotely.  
-💻 Don't forget to download the [desktop app](https://github.com/ShutApp/ShutApp-Desktop) too !
+💻 Don't forget to download the [desktop app](https://github.com/S2009-dev/ShutApp-Desktop) too !
 
 ## ⚙️ Installation
 
