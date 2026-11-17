@@ -1,3 +1,8 @@
+⚠️ Archived Project
+
+This repository is archived as I'm currently moving it to Gitlab.  
+New repo: https://gitlab.com/S2009/ShutApp/Android  
+⚠️ This link will be active as soon as possible, when the v2 of the app will be released.
 # 📱 ShutApp
 
 [<img src="https://f-droid.org/badge/get-it-on-en.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/fr.s2009.shutapp)
